@@ -6,7 +6,7 @@
 
 # 电脑上用PP助手安装Shadowrocket
 - 下载安装电脑版 PP助手
-- 下载ios版Shadowrocket Shadowrocket.ipa（链接：https://pan.baidu.com/s/1B0jUuAfswE1MeeVA3_hNvg 提取码：24z2） 
+- 下载ios版Shadowrocket Shadowrocket.ipa (链接：https://pan.baidu.com/s/1m5Q8ik6IZXao-Ff8JdHmmg  提取码：wlsk ) 
 - 导入到pp助手下载管理中安装  
 
 # 购买账号
